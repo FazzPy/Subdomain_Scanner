@@ -1,2 +1,3 @@
-# Subdomain_Scanner
-Python Subdomain Scanner project
+# Python | Subdomain Scanner
+
+Using : subdomain-scanner.py google.com
